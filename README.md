@@ -5,7 +5,7 @@ Sample HTTP streaming between Node.js and the Browser.
 
 This is an example implementation of Node.js streams being utilized in both server and client side of the application. This is explained well in this blog post [http://dry.ly/full-streams-ahead](http://dry.ly/full-streams-ahead).
 
-![stream-animation](https://raw.github.com/maiah/streaming-http-sample/master/stream-animation.png)
+![stream-animation](https://raw.github.com/maiah/streaming-http-sample/master/stream-animation.gif)
 
 # Installation
 
