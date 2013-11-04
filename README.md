@@ -7,27 +7,27 @@ Sample HTTP streaming between Node.js and the Browser
 
 Install required npm modules.
 
-``sh
+```sh
 npm install
-``
+```
 
 Then install Browserify globally.
 
-``sh
+```sh
 npm install -g browserify
-``
+```
 
 Once installed go to `/public` folder of this project and then create `bundle.js` file.
 
-``sh
+```sh
 browserify -r hyperquest > bundle.js
-``
+```
 
 # Running
 
-``sh
+```sh
 node server
-``
+```
 
 Then go to browser [http://localhost:7000/book](http://localhost:7000/book) to see the result.
 
